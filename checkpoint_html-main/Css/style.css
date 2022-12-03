@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+}
+nav ul li {
+    font-family: 'Roboto', sans-serif;
+    display: inline-block;
+    border-radius: 4px;
+}
+nav {
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+}
+.box1 {
+    color: red;
+    display: flex;
+    justify-content: center;
+}
+.box2 {
+color: red;
+display: flex;
+    justify-content: center;
+}
+.box3 {
+    color: red;
+    display: flex;
+    justify-content: center;
+}
